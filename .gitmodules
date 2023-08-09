@@ -1,0 +1,3 @@
+[submodule "binary-search-tree"]
+	path = binary-search-tree
+	url = git@github.com:sh-islam/binary-search-tree.git
